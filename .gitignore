@@ -1,0 +1,9 @@
+/.gradle
+/.idea
+/.mvn/
+/gradle/
+/build
+/target
+build.gradle
+gradle*
+mvn*
